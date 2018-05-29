@@ -1,5 +1,5 @@
 # 5-Letter-Word-Made-of-Words-Finder
-Uses word lists and finds a 5 letter word that has the fallowing parts of it also be a word
+Uses word lists and finds a 5 letter word that has the following parts of it also be a word
 
 In this explanation 12345 are letters and everything in the ()'s is a word:
 
